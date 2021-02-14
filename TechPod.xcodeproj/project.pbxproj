@@ -7,34 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D5D435625C99D4C000FE289 /* cannon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8D5D434F25C99D4C000FE289 /* cannon.mp3 */; };
+		8D5D435725C99D4C000FE289 /* elise.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8D5D435025C99D4C000FE289 /* elise.mp3 */; };
+		8D5D435825C99D4C000FE289 /* aria.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8D5D435125C99D4C000FE289 /* aria.mp3 */; };
+		8D5D435925C99D4C000FE289 /* Beethoven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8D5D435325C99D4C000FE289 /* Beethoven.jpg */; };
+		8D5D435A25C99D4C000FE289 /* Pachelbel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8D5D435425C99D4C000FE289 /* Pachelbel.jpg */; };
+		8D5D435B25C99D4C000FE289 /* Bach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8D5D435525C99D4C000FE289 /* Bach.jpg */; };
 		8DB6A63525C94779006C8B57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB6A63425C94779006C8B57 /* AppDelegate.swift */; };
 		8DB6A63725C94779006C8B57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB6A63625C94779006C8B57 /* SceneDelegate.swift */; };
 		8DB6A63925C94779006C8B57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB6A63825C94779006C8B57 /* ViewController.swift */; };
 		8DB6A63C25C94779006C8B57 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DB6A63A25C94779006C8B57 /* Main.storyboard */; };
 		8DB6A63E25C9477C006C8B57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DB6A63D25C9477C006C8B57 /* Assets.xcassets */; };
 		8DB6A64125C9477C006C8B57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DB6A63F25C9477C006C8B57 /* LaunchScreen.storyboard */; };
-		8DB6A64C25C9477C006C8B57 /* TechPodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB6A64B25C9477C006C8B57 /* TechPodTests.swift */; };
-		8DB6A65725C9477C006C8B57 /* TechPodUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB6A65625C9477C006C8B57 /* TechPodUITests.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		8DB6A64825C9477C006C8B57 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 8DB6A62925C94779006C8B57 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 8DB6A63025C94779006C8B57;
-			remoteInfo = TechPod;
-		};
-		8DB6A65325C9477C006C8B57 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 8DB6A62925C94779006C8B57 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 8DB6A63025C94779006C8B57;
-			remoteInfo = TechPod;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		8D5D434F25C99D4C000FE289 /* cannon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = cannon.mp3; sourceTree = "<group>"; };
+		8D5D435025C99D4C000FE289 /* elise.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = elise.mp3; sourceTree = "<group>"; };
+		8D5D435125C99D4C000FE289 /* aria.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = aria.mp3; sourceTree = "<group>"; };
+		8D5D435325C99D4C000FE289 /* Beethoven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Beethoven.jpg; sourceTree = "<group>"; };
+		8D5D435425C99D4C000FE289 /* Pachelbel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pachelbel.jpg; sourceTree = "<group>"; };
+		8D5D435525C99D4C000FE289 /* Bach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bach.jpg; sourceTree = "<group>"; };
 		8DB6A63125C94779006C8B57 /* TechPod.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TechPod.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DB6A63425C94779006C8B57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DB6A63625C94779006C8B57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -43,12 +36,6 @@
 		8DB6A63D25C9477C006C8B57 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8DB6A64025C9477C006C8B57 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8DB6A64225C9477C006C8B57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8DB6A64725C9477C006C8B57 /* TechPodTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TechPodTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8DB6A64B25C9477C006C8B57 /* TechPodTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TechPodTests.swift; sourceTree = "<group>"; };
-		8DB6A64D25C9477C006C8B57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8DB6A65225C9477C006C8B57 /* TechPodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TechPodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8DB6A65625C9477C006C8B57 /* TechPodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TechPodUITests.swift; sourceTree = "<group>"; };
-		8DB6A65825C9477C006C8B57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,29 +46,42 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8DB6A64425C9477C006C8B57 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8DB6A64F25C9477C006C8B57 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8D5D434D25C99D4C000FE289 /* TechPodResources */ = {
+			isa = PBXGroup;
+			children = (
+				8D5D434E25C99D4C000FE289 /* Songs */,
+				8D5D435225C99D4C000FE289 /* Images */,
+			);
+			path = TechPodResources;
+			sourceTree = "<group>";
+		};
+		8D5D434E25C99D4C000FE289 /* Songs */ = {
+			isa = PBXGroup;
+			children = (
+				8D5D434F25C99D4C000FE289 /* cannon.mp3 */,
+				8D5D435025C99D4C000FE289 /* elise.mp3 */,
+				8D5D435125C99D4C000FE289 /* aria.mp3 */,
+			);
+			path = Songs;
+			sourceTree = "<group>";
+		};
+		8D5D435225C99D4C000FE289 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				8D5D435325C99D4C000FE289 /* Beethoven.jpg */,
+				8D5D435425C99D4C000FE289 /* Pachelbel.jpg */,
+				8D5D435525C99D4C000FE289 /* Bach.jpg */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		8DB6A62825C94779006C8B57 = {
 			isa = PBXGroup;
 			children = (
 				8DB6A63325C94779006C8B57 /* TechPod */,
-				8DB6A64A25C9477C006C8B57 /* TechPodTests */,
-				8DB6A65525C9477C006C8B57 /* TechPodUITests */,
 				8DB6A63225C94779006C8B57 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,8 +90,6 @@
 			isa = PBXGroup;
 			children = (
 				8DB6A63125C94779006C8B57 /* TechPod.app */,
-				8DB6A64725C9477C006C8B57 /* TechPodTests.xctest */,
-				8DB6A65225C9477C006C8B57 /* TechPodUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -99,6 +97,7 @@
 		8DB6A63325C94779006C8B57 /* TechPod */ = {
 			isa = PBXGroup;
 			children = (
+				8D5D434D25C99D4C000FE289 /* TechPodResources */,
 				8DB6A63425C94779006C8B57 /* AppDelegate.swift */,
 				8DB6A63625C94779006C8B57 /* SceneDelegate.swift */,
 				8DB6A63825C94779006C8B57 /* ViewController.swift */,
@@ -108,24 +107,6 @@
 				8DB6A64225C9477C006C8B57 /* Info.plist */,
 			);
 			path = TechPod;
-			sourceTree = "<group>";
-		};
-		8DB6A64A25C9477C006C8B57 /* TechPodTests */ = {
-			isa = PBXGroup;
-			children = (
-				8DB6A64B25C9477C006C8B57 /* TechPodTests.swift */,
-				8DB6A64D25C9477C006C8B57 /* Info.plist */,
-			);
-			path = TechPodTests;
-			sourceTree = "<group>";
-		};
-		8DB6A65525C9477C006C8B57 /* TechPodUITests */ = {
-			isa = PBXGroup;
-			children = (
-				8DB6A65625C9477C006C8B57 /* TechPodUITests.swift */,
-				8DB6A65825C9477C006C8B57 /* Info.plist */,
-			);
-			path = TechPodUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -148,42 +129,6 @@
 			productReference = 8DB6A63125C94779006C8B57 /* TechPod.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8DB6A64625C9477C006C8B57 /* TechPodTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 8DB6A65E25C9477C006C8B57 /* Build configuration list for PBXNativeTarget "TechPodTests" */;
-			buildPhases = (
-				8DB6A64325C9477C006C8B57 /* Sources */,
-				8DB6A64425C9477C006C8B57 /* Frameworks */,
-				8DB6A64525C9477C006C8B57 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				8DB6A64925C9477C006C8B57 /* PBXTargetDependency */,
-			);
-			name = TechPodTests;
-			productName = TechPodTests;
-			productReference = 8DB6A64725C9477C006C8B57 /* TechPodTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		8DB6A65125C9477C006C8B57 /* TechPodUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 8DB6A66125C9477C006C8B57 /* Build configuration list for PBXNativeTarget "TechPodUITests" */;
-			buildPhases = (
-				8DB6A64E25C9477C006C8B57 /* Sources */,
-				8DB6A64F25C9477C006C8B57 /* Frameworks */,
-				8DB6A65025C9477C006C8B57 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				8DB6A65425C9477C006C8B57 /* PBXTargetDependency */,
-			);
-			name = TechPodUITests;
-			productName = TechPodUITests;
-			productReference = 8DB6A65225C9477C006C8B57 /* TechPodUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -195,14 +140,6 @@
 				TargetAttributes = {
 					8DB6A63025C94779006C8B57 = {
 						CreatedOnToolsVersion = 12.4;
-					};
-					8DB6A64625C9477C006C8B57 = {
-						CreatedOnToolsVersion = 12.4;
-						TestTargetID = 8DB6A63025C94779006C8B57;
-					};
-					8DB6A65125C9477C006C8B57 = {
-						CreatedOnToolsVersion = 12.4;
-						TestTargetID = 8DB6A63025C94779006C8B57;
 					};
 				};
 			};
@@ -220,8 +157,6 @@
 			projectRoot = "";
 			targets = (
 				8DB6A63025C94779006C8B57 /* TechPod */,
-				8DB6A64625C9477C006C8B57 /* TechPodTests */,
-				8DB6A65125C9477C006C8B57 /* TechPodUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -232,22 +167,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				8DB6A64125C9477C006C8B57 /* LaunchScreen.storyboard in Resources */,
+				8D5D435625C99D4C000FE289 /* cannon.mp3 in Resources */,
+				8D5D435B25C99D4C000FE289 /* Bach.jpg in Resources */,
+				8D5D435725C99D4C000FE289 /* elise.mp3 in Resources */,
 				8DB6A63E25C9477C006C8B57 /* Assets.xcassets in Resources */,
+				8D5D435A25C99D4C000FE289 /* Pachelbel.jpg in Resources */,
 				8DB6A63C25C94779006C8B57 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8DB6A64525C9477C006C8B57 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8DB6A65025C9477C006C8B57 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				8D5D435825C99D4C000FE289 /* aria.mp3 in Resources */,
+				8D5D435925C99D4C000FE289 /* Beethoven.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,36 +191,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8DB6A64325C9477C006C8B57 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8DB6A64C25C9477C006C8B57 /* TechPodTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8DB6A64E25C9477C006C8B57 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8DB6A65725C9477C006C8B57 /* TechPodUITests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		8DB6A64925C9477C006C8B57 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 8DB6A63025C94779006C8B57 /* TechPod */;
-			targetProxy = 8DB6A64825C9477C006C8B57 /* PBXContainerItemProxy */;
-		};
-		8DB6A65425C9477C006C8B57 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 8DB6A63025C94779006C8B57 /* TechPod */;
-			targetProxy = 8DB6A65325C9477C006C8B57 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		8DB6A63A25C94779006C8B57 /* Main.storyboard */ = {
@@ -442,7 +340,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.TechPod;
+				PRODUCT_BUNDLE_IDENTIFIER = app.taruto.TechPod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -460,90 +358,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.TechPod;
+				PRODUCT_BUNDLE_IDENTIFIER = app.taruto.TechPod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		8DB6A65F25C9477C006C8B57 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = TechPodTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.TechPodTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TechPod.app/TechPod";
-			};
-			name = Debug;
-		};
-		8DB6A66025C9477C006C8B57 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = TechPodTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.TechPodTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TechPod.app/TechPod";
-			};
-			name = Release;
-		};
-		8DB6A66225C9477C006C8B57 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = TechPodUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.TechPodUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = TechPod;
-			};
-			name = Debug;
-		};
-		8DB6A66325C9477C006C8B57 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = TechPodUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.litech.TechPodUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = TechPod;
 			};
 			name = Release;
 		};
@@ -564,24 +382,6 @@
 			buildConfigurations = (
 				8DB6A65C25C9477C006C8B57 /* Debug */,
 				8DB6A65D25C9477C006C8B57 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		8DB6A65E25C9477C006C8B57 /* Build configuration list for PBXNativeTarget "TechPodTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8DB6A65F25C9477C006C8B57 /* Debug */,
-				8DB6A66025C9477C006C8B57 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		8DB6A66125C9477C006C8B57 /* Build configuration list for PBXNativeTarget "TechPodUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8DB6A66225C9477C006C8B57 /* Debug */,
-				8DB6A66325C9477C006C8B57 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
